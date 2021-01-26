@@ -94,7 +94,8 @@ p {
 .cover-letter-image {
   width: 60%;
   position: absolute;  
-  right: 30%;
+  right: 5%;
+  border-radius: 100%;
 }
 
 /* Education Section */
