@@ -93,8 +93,8 @@ p {
 
 .cover-letter-image {
   width: 60%;
-  position: absolute;  
-  right: 5%;
+  position: relative;  
+  right: -50%;
   border-radius: 100%;
 }
 
